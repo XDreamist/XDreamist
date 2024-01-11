@@ -40,7 +40,7 @@ I'm always on the lookout for exciting projects, collaborations, and conversatio
 
 [![Outlook Badge](https://img.shields.io/badge/Outlook-blue?style=for-the-badge&logo=microsoft-outlook&labelColor=blue)](mailto:umeshprakash123@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/umesh-prakash-90233125b/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&labelColor=white)]([https://www.instagram.com/x_dreamist/])
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/x_dreamist/])
 
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&hide=prs&theme=radical)
