@@ -1,16 +1,35 @@
-### Hi there 👋
+## 🚀 About Me
 
-<!--
-**XDreamist/XDreamist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Programming Languages
 
-Here are some ideas to get you started:
+- Python
+- Java
+- JavaScript
+- C
+- C++
+- CSS
+- HTML
+- ...and more
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎨 Post-Production Apps
+
+- After Effects
+- Photoshop
+- Premiere Pro
+
+## 🚀 3D Software
+
+- Blender
+- Unreal Engine
+- Adobe Mixer
+- ...and more
+
+## 🌐 Connect with Me
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&labelColor=blue)(linkedin.com/in/umesh-prakash-90233125b)
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&hide=prs&theme=radical)
+
+Feel free to explore my repositories and get in touch! 😊
