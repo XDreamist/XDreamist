@@ -15,13 +15,6 @@ Beyond the gaming landscape, I'm well-versed in the realm of full-stack web deve
 ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)
 ![REST API](https://img.icons8.com/color/48/000000/api.png)
 
-## 🎨 Post-Production
-
-Not just limited to code, I'm also deeply involved in the art of content creation. Whether it's editing videos, polishing photos, or adding that extra flair to multimedia content, I enjoy every aspect of the creative process. My proficiency extends to tools like Adobe After Effects, Photoshop, Premiere Pro, ensuring that every visual element tells a compelling story.
-
-![After Effects](https://img.icons8.com/color/48/000000/adobe-after-effects.png)
-![Photoshop](https://img.icons8.com/color/48/000000/adobe-photoshop.png)
-![Premiere Pro](https://img.icons8.com/color/48/000000/adobe-premiere-pro.png)
 
 ## 🎮 3D
 
@@ -30,6 +23,16 @@ My heart lies in crafting immersive and engaging gaming experiences. From concep
 ![Unreal Engine](https://img.icons8.com/color/48/000000/unreal-engine.png)
 ![Blender](https://img.icons8.com/?size=48&id=65231&format=png)
 ![Unity](https://img.icons8.com/color/48/000000/unity.png)
+
+
+## 🎨 Post-Production
+
+Not just limited to code, I'm also deeply involved in the art of content creation. Whether it's editing videos, polishing photos, or adding that extra flair to multimedia content, I enjoy every aspect of the creative process. My proficiency extends to tools like Adobe After Effects, Photoshop, Premiere Pro, ensuring that every visual element tells a compelling story.
+
+![After Effects](https://img.icons8.com/color/48/000000/adobe-after-effects.png)
+![Photoshop](https://img.icons8.com/color/48/000000/adobe-photoshop.png)
+![Premiere Pro](https://img.icons8.com/color/48/000000/adobe-premiere-pro.png)
+
 
 ## 🌐 Let's Connect
 
