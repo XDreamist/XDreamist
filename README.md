@@ -26,7 +26,7 @@
 
 ## 🌐 Connect with Me
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&labelColor=blue)(linkedin.com/in/umesh-prakash-90233125b)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&labelColor=blue)https://linkedin.com/in/umesh-prakash-90233125b
 
 ## 📈 GitHub Stats
 
