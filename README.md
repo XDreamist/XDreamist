@@ -1,11 +1,10 @@
 ## 🚀 About Me
 
-## 💻 Programming Languages
+## 💻 Programming 
 
 - Python
 - Java
 - JavaScript
-- C
 - C++
 - CSS
 - HTML
@@ -24,12 +23,14 @@
 - Adobe Mixer
 - ...and more
 
-## 🌐 Connect with Me
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&labelColor=blue)https://linkedin.com/in/umesh-prakash-90233125b
-
-## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&hide=prs&theme=radical)
+
+
+
+[![Outlook Badge](https://img.shields.io/badge/Outlook-blue?style=for-the-badge&logo=microsoft-outlook&labelColor=blue)](mailto:umeshprakash123@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/umesh-prakash-90233125b/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&labelColor=white)]([https://www.instagram.com/x_dreamist/])
 
 Feel free to explore my repositories and get in touch! 😊
