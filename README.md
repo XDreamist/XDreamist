@@ -43,6 +43,6 @@ I'm always on the lookout for exciting projects, collaborations, and conversatio
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/x_dreamist/)
 
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&hide=prs&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=XDreamist&show_icons=true&hide=prs&theme=radical)
 
 Feel free to explore my repositories and get in touch! 😊
