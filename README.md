@@ -11,6 +11,7 @@ Beyond the gaming landscape, I'm well-versed in the realm of full-stack web deve
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
 ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
 ![Angular](https://img.icons8.com/color/48/000000/angularjs.png)
+![React](https://img.icons8.com/color/48/000000/react-native.png)
 ![Django](https://img.icons8.com/color/48/000000/django.png)
 ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)
 ![REST API](https://img.icons8.com/color/48/000000/api.png)
